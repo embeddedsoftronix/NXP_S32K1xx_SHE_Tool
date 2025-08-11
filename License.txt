@@ -1,0 +1,2 @@
+'This code originates from weltry/S32K1xx-CSEc-Tool and is used for educational reference only.' 
+Since there is no explicit license, you may not redistribute it as your own without permission.
